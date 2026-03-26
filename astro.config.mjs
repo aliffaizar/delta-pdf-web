@@ -8,6 +8,6 @@ export default defineConfig({
   vite: {
     plugins: [tailwindcss()]
   },
-  site: "https://aliffaizar.github.io/delta-pdf-web",
-  base: "/delta-pdf-web",
+  site: "https://aliffaizar.github.io/delta-pdf-web/",
+  base: "/delta-pdf-web/",
 });
