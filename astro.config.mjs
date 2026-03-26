@@ -7,5 +7,7 @@ import tailwindcss from '@tailwindcss/vite';
 export default defineConfig({
   vite: {
     plugins: [tailwindcss()]
-  }
+  },
+  site: "https://aliffaizar.github.io/delta-pdf-web",
+  base: "/delta-pdf-web",
 });
